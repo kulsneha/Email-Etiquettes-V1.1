@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5yom14eqG0G" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Email Etiquettes_V1.1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Email_Etiquettes_V1.1_ORG">
+    <organization identifier="Email_Etiquettes_V1.1_ORG">
+      <title>Email Etiquettes_V1.1</title>
+      <item identifier="Email_Etiquettes_V1.1_SCO" isvisible="true" identifierref="__5yom14eqG0G_RES">
+        <title>Email Etiquettes_V1.1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5yom14eqG0G_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qx8kVVM6Xk.jpg" />
+      <file href="mobile/66jAQpwH7qa_X.png" />
+      <file href="mobile/6Z21wl51Iae.png" />
+      <file href="story_content/5Y10oJqy87C_44100_160_0.mp3" />
+      <file href="story_content/6lad84LhMmD_44100_160_0.mp3" />
+      <file href="mobile/5cuDUuLsAgz.png" />
+      <file href="mobile/5na31mpkUD4.png" />
+      <file href="mobile/696G1gwzpHs.jpg" />
+      <file href="mobile/5did84nErgr.png" />
+      <file href="mobile/5WVAnhlIcAU.png" />
+      <file href="story_content/6SigUcEyhGN_44100_160_0.mp3" />
+      <file href="mobile/5oIWkqUkeEc_P_0_0_1667_1755.png" />
+      <file href="story_content/5f87yuFCbmu_44100_160_0.mp3" />
+      <file href="mobile/5WWliGOsWpX_P_0_0_966_1755.png" />
+      <file href="story_content/6nSCKWT1JGn_44100_160_0.mp3" />
+      <file href="mobile/6hgxGw0AhZN.png" />
+      <file href="story_content/5VD1bV0W564_44100_160_0.mp3" />
+      <file href="mobile/67Q9NwI3NFI.png" />
+      <file href="mobile/6pXTIx34McE_P_33_132_550_354.jpg" />
+      <file href="mobile/6LGf3yfOdUQ.png" />
+      <file href="story_content/6WppVTBBEUr_44100_160_0.mp3" />
+      <file href="mobile/6NclrXXhluy.png" />
+      <file href="story_content/6NjCFdmO0rG_44100_160_0.mp3" />
+      <file href="story_content/6SFoX0b0PAV_44100_160_0.mp3" />
+      <file href="mobile/5lFb3My2EoQ.png" />
+      <file href="mobile/64Zq3r1WIiK_P_0_0_1395_1978.png" />
+      <file href="story_content/6Ey3LhjCJUd_44100_160_0.mp3" />
+      <file href="mobile/6UMNAISv07R_P_68_110_220_167.jpg" />
+      <file href="mobile/6UMNAISv07R_P_336_110_219_167.jpg" />
+      <file href="story_content/6HeLoDRubqU_44100_160_0.mp3" />
+      <file href="mobile/6Wyt0S4FmGM.png" />
+      <file href="story_content/6AY5E6SC920_44100_160_0.mp3" />
+      <file href="mobile/62Ms9IuzD9t.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5lR5yxncXgJ.js" />
+      <file href="html5/data/js/5lWuOu21B8o.js" />
+      <file href="html5/data/js/5rIOVQoVxYn.js" />
+      <file href="html5/data/js/5tAcZYaFjMb.js" />
+      <file href="html5/data/js/6DnIPv5Q4Yt.js" />
+      <file href="html5/data/js/6HoL7adQ4de.js" />
+      <file href="html5/data/js/6MqZ8nsoZk3.js" />
+      <file href="html5/data/js/6PZck0nGeCD.js" />
+      <file href="html5/data/js/6RYiGb5fjXF.js" />
+      <file href="html5/data/js/6WIJIaN66Zx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
